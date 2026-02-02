@@ -1,0 +1,8 @@
+pandas
+numpy
+gymnasium
+stable_baselines3
+scikit-learn
+joblib
+flask
+
